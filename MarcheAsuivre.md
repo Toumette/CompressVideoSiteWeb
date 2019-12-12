@@ -1,6 +1,6 @@
 ## Compresser une vidéo MP4 pour la placer sur un site SPIP de collège
 
-### NB : Tout le travail se fait dans le répertoire « TRAITEMENT » dans lequel il y a l’outil « COMPRESSER.bat »
+#### NB : Tout le travail se fait dans le répertoire « TRAITEMENT » dans lequel il y a l’outil « COMPRESSER.bat »
 
 1. effacer les éventuels fichiers ".mp4" et ".flv" qui pourraient se trouver dans ce répertoire de travail « TRAITEMENT »
 

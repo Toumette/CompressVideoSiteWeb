@@ -4,6 +4,6 @@
 
 Fonctionne en environnement Windows
 
-D'abord installer la dernière version du pack "ffmpeg" dans un répertoire appelé "programme"
+D'abord installer la dernière version du pack **"ffmpeg"** dans un répertoire appelé "programme"
 
  © Henri 06/03/16

@@ -14,19 +14,18 @@
 1. attendre la fin du traitement (qq. minutes) - il est possible d'utiliser l'ordinateur durant ce temps
 (ne pas mettre l'ordinateur en veille avant la fin du traitement)
 
-    7) la fin du traitement est annoncée par 3 BIPS et affichage de :
+1. la fin du traitement est annoncée par l'émission de 3 BIPS et l'affichage de :
  « ========== TRAITEMENT TERMINE ========== »
 
-       placer le curseur dans la fenêtre noire et appuyer sur une touche quelconque
+1. placer le curseur dans la fenêtre noire et appuyer sur une touche quelconque
 => la fenêtre se ferme
 
-    8) le fichier compressé généré est nommé « out.flv » - le lire pour le tester localement
+1.le fichier compressé généré est nommé « out.flv » - le lire pour le tester localement
 
-    9)  le renommer en « MON_FILM.flv » selon les besoins et le placer sur le site web
+1. le renommer en « MON_FILM.flv » selon les besoins et le placer sur le site web
 
-    10)  sur le site web, définir la fenêtre d'affichage de la vidéo à 640X360
+1. sur le site web, définir la fenêtre d'affichage de la vidéo à 640X360
 
-    11)  tester la lecture sur le site web
+1. tester la lecture sur le site web
 
-    12)  effacer les fichiers « .mp4 » et « .flv » du répertoire « TRAITEMENT »
-
+1. effacer les fichiers « .mp4 » et « .flv » du répertoire « TRAITEMENT »

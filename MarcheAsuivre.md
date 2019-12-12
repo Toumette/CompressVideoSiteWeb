@@ -6,12 +6,12 @@
 
 1. copier la vidéo originale « MON_FILM.mp4 » dans ce répertoire « TRAITEMENT »
 
-* renommer la vidéo originale de «MON_FILM .mp4 » en « in.mp4 »
+1. renommer la vidéo originale de «MON_FILM .mp4 » en « in.mp4 »
 
-    5) lancer le traitement par double-clic sur « COMPRESSER.bat »
+1. lancer le traitement par double-clic sur « COMPRESSER.bat »
 => une fenêtre noire s'ouvre et le traitement démarre avec un BIP...
 
-    6) attendre la fin du traitement (qq. minutes) - il est possible d'utiliser l'ordinateur durant ce temps
+1. attendre la fin du traitement (qq. minutes) - il est possible d'utiliser l'ordinateur durant ce temps
 (ne pas mettre l'ordinateur en veille avant la fin du traitement)
 
     7) la fin du traitement est annoncée par 3 BIPS et affichage de :

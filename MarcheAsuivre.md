@@ -1,4 +1,4 @@
-## Compresser une vidéo MP4 pour la placer sur un site SPIP de collège – Henri 06/03/16
+## Compresser une vidéo MP4 pour la placer sur un site SPIP de collège
 
 ### NB : Tout le travail se fait dans le répertoire « TRAITEMENT » dans lequel il y a l’outil « COMPRESSER.bat »
 

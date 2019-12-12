@@ -4,7 +4,7 @@
 
 1. effacer les éventuels fichiers ".mp4" et ".flv" qui pourraient se trouver dans ce répertoire de travail « TRAITEMENT »
 
-* copier la vidéo originale « MON_FILM.mp4 » dans ce répertoire « TRAITEMENT »
+1. copier la vidéo originale « MON_FILM.mp4 » dans ce répertoire « TRAITEMENT »
 
 * renommer la vidéo originale de «MON_FILM .mp4 » en « in.mp4 »
 

@@ -4,7 +4,7 @@
 
 Fonctionne en environnement Windows
 
-D'abord installer la dernière version du pack **"ffmpeg"** dans le répertoire appelé **"programme"**
+D'abord installer la dernière version du pack **"ffmpeg"** dans le répertoire appelé **"programmes"**
 
 A la fin du traitement, des informations sont données sur le fichier d'entrée et sur le fichier de sortie.
 

@@ -12,6 +12,6 @@ Le répertoire de l'outil est organisé de la façon suivante :
 
     \racine_de_l_outil\TRAITEMENT=========\
                       \README.md
-                      \
+                      \MarcheAsuivre.md
 
  © Henri 06/03/16

@@ -20,7 +20,9 @@
 1. placer le curseur dans la fenêtre noire et appuyer sur une touche quelconque
 => la fenêtre se ferme
 
-1.le fichier compressé généré est nommé « out.flv » - le lire pour le tester localement
+1. le fichier compressé est généré dans le même répertoire «TRAITEMENT», il est nommé «out.flv»
+
+1. lire ce fichier «out.flv» localement afin de le tester (VLC)
 
 1. le renommer en « MON_FILM.flv » selon les besoins et le placer sur le site web
 

@@ -1,33 +1,33 @@
 @echo off
 
-TITLE TRAITEMENT DE LA VIDEO POUR LE SITE SPIP DU COLLEGE  © Henri
+TITLE TRAITEMENT DE LA VIDEO POUR LE SITE SPIP DU COLLEGE  ¬© Henri
 
 echo.
 echo ****************************************************************************
 echo *                    DEBUT DU TRAITEMENT - PATIENTER                       *
 echo ****************************************************************************
 
-rem bip de dÈbut de traitement
+rem bip de d√©but de traitement
 echo 
 
 rem ----------------------------------------------------------------------------
 rem format conteneur : flv    (=extension de sortie) => pour SPIP...
-rem codec vidÈo      : h.264 -c:v libx264
+rem codec vid√©o      : h.264 -c:v libx264
 rem codec audio      : AAC   -c:a libvo_aacenc
 rem format video     : 640X360
 
 rem CONVERSION DE in.mp4 en out.flv
-rem pour mise sur site WEB/SPIP du CollËge de films
-rem mesurer la dÈfinition originale ex. 1920X 1080
-rem la rÈduire en 640 X valeur ‡ calculer pour conserver le mÍme rapport H/V
+rem pour mise sur site WEB/SPIP du Coll√®ge de films
+rem mesurer la d√©finition originale ex. 1920X 1080
+rem la r√©duire en 640 X valeur √† calculer pour conserver le m√™me rapport H/V
 rem par exemple 1,7777777777 soit 640X360
 rem ----------------------------------------------------------------------------
 
-rem pour test sur 30s :
-..\Programmes\bin\ffmpeg  -ss 60 -t 30 -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
+rem d√©commenter pour faire un test sur 30s de la vid√©o :
+rem ..\Programmes\bin\ffmpeg  -ss 60 -t 30 -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
 
-rem traitement complet :
-rem ..\Programmes\bin\ffmpeg               -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
+rem d√©commenter pour traiter enti√®rement la vid√©o :
+..\Programmes\bin\ffmpeg               -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
 
 
 echo.

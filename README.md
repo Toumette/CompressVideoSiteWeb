@@ -11,7 +11,7 @@ A la fin du traitement, des informations sont données sur le fichier d'entrée 
 Le répertoire de l'outil est organisé de la façon suivante :
 
     \racine_de_l_outil\TRAITEMENT============-COMPRESSER.bat
-                      -README.md             -1n
-                      -MarcheAsuivre.md      -out
+                      -README.md             -in.mp4
+                      -MarcheAsuivre.md      -out.flv
 
  © Henri 06/03/16

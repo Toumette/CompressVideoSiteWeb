@@ -13,5 +13,8 @@ Le répertoire de l'outil est organisé de la façon suivante :
     \racine_de_l_outil=>|TRAITEMENT===========>|-COMPRESSER.bat
                         |-README.md            |-in.mp4
                         |-MarcheAsuivre.md     |-out.flv
-
+                        |
+                        |Programmes===========>|bin====>|ffmpeg.exe
+                        
+                        
  © Henri 06/03/16

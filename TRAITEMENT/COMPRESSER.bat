@@ -28,8 +28,9 @@ rem ----------------------------------------------------------------------------
 rem décommenter pour faire un test sur 30s de la vidéo :
 rem ..\Programmes\bin\ffmpeg  -ss 60 -t 30 -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
 
+rem si test OK :
 rem décommenter pour traiter entièrement la vidéo :
-..\Programmes\bin\ffmpeg               -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
+..\Programmes\bin\ffmpeg                   -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
 
 
 echo.

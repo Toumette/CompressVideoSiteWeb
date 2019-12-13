@@ -7,8 +7,10 @@ echo ***************************************************************************
 echo *                    DEBUT DU TRAITEMENT - PATIENTER                       *
 echo ****************************************************************************
 
-rem bip de début de traitement
+rem bip de début de traitement :
 echo 
+rem NB : le bip correspond au caractère ASCII 7 passé en argument à echo
+rem il peut être inséré sous Windows par la combinaison Alt007
 
 rem ----------------------------------------------------------------------------
 rem format conteneur : flv    (=extension de sortie) => pour SPIP...

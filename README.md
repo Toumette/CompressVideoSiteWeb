@@ -8,15 +8,15 @@
 
 * A la fin du traitement, des informations sont données sur le fichier d'entrée et sur le fichier de sortie.
 
-* Une fois l'outil installé et testé, le fichier "MarcheAsuivre" permet à un utilisateur non spécialiste de réaliser l'opération.
+* Une fois l'outil installé et testé, le fichier "MarcheAsuivre" permet au gestionnaire du site de l'établissement de réaliser l'opération.
 
 Le répertoire de l'outil est organisé de la façon suivante :
 
-    \racine_de_l_outil=>|rép TRAITEMENT=============>|-COMPRESSER.bat (outil)
-                        |-README.md (ce fichier)     |-in.mp4 (fichier lu par l'outil)
-                        |-MarcheAsuivre.md (doc)     |-out.flv (fichier généré par l'outil après traitement)
+    \racine_de_l_outil=>|répertoire TRAITEMENT======>|-COMPRESSER.bat (l'outil proprement dit)
+                        |-README.md (ce fichier)     |-in.mp4 (le fichier lu par l'outil)
+                        |-MarcheAsuivre.md (doc)     |-out.flv (le fichier généré par l'outil après traitement)
                         |
-                        |Rép Programmes=============>|bin==>|ffmpeg.exe (à installer, utilisé par l'outil)
+                        |Répertoire Programmes======>|bin==>|ffmpeg.exe (à installer, utilisé par l'outil)
                         
 
 _Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._

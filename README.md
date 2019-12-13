@@ -8,7 +8,7 @@
 
 * A la fin du traitement, des informations sont données sur le fichier d'entrée et sur le fichier de sortie.
 
-* Une fois l'outil installé et testé, le fichier "MarcheAsuivre" permet au gestionnaire du site de l'établissement de réaliser l'opération.
+* Une fois l'outil installé et testé, le fichier "MarcheAsuivre" permet au gestionnaire du site de l'établissement de réaliser l'opération (fichier utilisant la syntaxe Markdown).
 
 Le répertoire de l'outil est organisé de la façon suivante :
 

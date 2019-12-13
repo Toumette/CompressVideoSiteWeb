@@ -13,25 +13,22 @@ rem NB : le bip correspond au caractère ASCII 7 passé en argument à echo
 rem il peut être inséré sous Windows par la combinaison Alt007
 
 rem ----------------------------------------------------------------------------
-rem format conteneur : flv    (=extension de sortie) => pour SPIP...
+rem OPTIONS DE ffmpeg UTILISEES ICI :
+rem format conteneur : flv    (=extension de sortie) => nécessaire pour site/SPIP...
 rem codec vidéo      : h.264 -c:v libx264
 rem codec audio      : AAC   -c:a libvo_aacenc
-rem format video     : 640X360
+rem format video     : -s 640X360
 
 rem CONVERSION DE in.mp4 en out.flv
 rem pour mise sur site WEB/SPIP du Collège de films
-rem mesurer la définition originale ex. 1920X 1080
-rem la réduire en 640 X valeur à calculer pour conserver le même rapport H/V
-rem par exemple 1,7777777777 soit 640X360
 rem ----------------------------------------------------------------------------
 
-rem décommenter pour faire un test sur 30s de la vidéo :
+rem décommenter pour faire un test rapide sur 30s de la vidéo :
 rem ..\Programmes\bin\ffmpeg  -ss 60 -t 30 -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
 
 rem si test OK :
 rem décommenter pour traiter entièrement la vidéo :
 ..\Programmes\bin\ffmpeg                   -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
-
 
 echo.
 echo ----------------------- INFOS SUR LE FICHIER ENTREE -----------------------

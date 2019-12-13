@@ -2,23 +2,24 @@
 
 ##### REDACTION EN COURS
 
-##### Compresser une vidéo MP4 pour la placer sur un site SPIP de collège (en .FLV)
+### Compresser une vidéo MP4 pour la placer sur un site SPIP de collège (en .FLV)
 
-Fonctionne en environnement Windows
 
-D'abord installer la dernière version du pack **"ffmpeg"** dans le répertoire appelé **"programmes"**
+* Testé sous Windows Seven Edition familiale.
 
-A la fin du traitement, des informations sont données sur le fichier d'entrée et sur le fichier de sortie.
+* D'abord installer la dernière version du pack **"ffmpeg"** dans le répertoire appelé **"programmes"**
+
+* A la fin du traitement, des informations sont données sur le fichier d'entrée et sur le fichier de sortie.
 
 Le répertoire de l'outil est organisé de la façon suivante :
 
-    \racine_de_l_outil=>|TRAITEMENT===========>|-COMPRESSER.bat
-                        |-README.md            |-in.mp4
-                        |-MarcheAsuivre.md     |-out.flv
+    \racine_de_l_outil=>|rép TRAITEMENT=============>|-COMPRESSER.bat (outil)
+                        |-README.md (ce fichier)     |-in.mp4 (fichier lu par l'outil)
+                        |-MarcheAsuivre.md (doc)     |-out.flv (fichier généré par l'outil après traitement)
                         |
-                        |Programmes===========>|bin====>|ffmpeg.exe
+                        |Rép Programmes=============>|bin==>|ffmpeg.exe (à installer, utilisé par l'outil)
                         
 
 _Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._
 
- © Henri 06/03/16
+ © Henri 13/12/19

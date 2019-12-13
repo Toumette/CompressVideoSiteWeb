@@ -1,14 +1,14 @@
 # CompressVideoSiteWeb
 
-##### REDACTION EN COURS
-
 ### Compresser une vidéo MP4 pour la placer sur un site SPIP de collège (en .FLV)
 
 * Testé sous Windows Seven Edition familiale.
 
-* D'abord installer la dernière version du pack **"ffmpeg"** dans le répertoire appelé **"programmes"** on doit pouvoir accéder à ffmpeg par cette arborescence : **\racine_de_l_outil\Programmes\bin\ffmpeg.exe**
+* D'abord installer la dernière version du pack **"ffmpeg"** dans le répertoire appelé **"programmes"** on doit pouvoir accéder à ffmpeg par cette arborescence : **\racine_de_l_outil\Programmes\bin\ffmpeg.exe**.
 
 * A la fin du traitement, des informations sont données sur le fichier d'entrée et sur le fichier de sortie.
+
+* Une fois l'outil installé et testé, le fichier "MarcheAsuivre" permet à un utilisateur non spécialiste de réaliser l'opération.
 
 Le répertoire de l'outil est organisé de la façon suivante :
 

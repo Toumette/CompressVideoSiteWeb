@@ -1,5 +1,7 @@
 # CompressVideoSiteWeb
 
+##### REDACTION EN COURS
+
 ##### Compresser une vidéo MP4 pour la placer sur un site SPIP de collège (en .FLV)
 
 Fonctionne en environnement Windows
@@ -16,5 +18,7 @@ Le répertoire de l'outil est organisé de la façon suivante :
                         |
                         |Programmes===========>|bin====>|ffmpeg.exe
                         
-                        
+
+_Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._
+
  © Henri 06/03/16

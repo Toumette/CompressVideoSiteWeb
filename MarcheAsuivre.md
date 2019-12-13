@@ -1,4 +1,4 @@
-## Marche à suivre pour formater et compresser une vidéo MP4 pour la placer sur un site SPIP de collège
+## Marche à suivre pour formater et compresser une vidéo MP4 avant de l'uploader sur un site SPIP de collège
 
 #### NB : Tout le travail se fait dans le répertoire «TRAITEMENT» dans lequel il y a l’outil «COMPRESSER.bat».
 

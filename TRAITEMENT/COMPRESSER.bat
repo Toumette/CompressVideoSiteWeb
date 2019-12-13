@@ -45,7 +45,7 @@ echo ***************************************************************************
 echo *  TRAITEMENT TERMINE - APPUYER SUR N'IMPORTE QUELLE TOUCHE POUR QUITTER   *
 echo ****************************************************************************
 
-rem 3 bips de fin de traitement
+rem 3 bips de fin de traitement :
 echo  & echo  & echo 
 
 pause >nul

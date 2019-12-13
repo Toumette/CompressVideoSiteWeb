@@ -48,4 +48,5 @@ echo ***************************************************************************
 rem 3 bips de fin de traitement :
 echo  & echo  & echo 
 
+rem la commande "pause" permet d'attendre l'action sur une touche quelconque pour fermer la fenêtre
 pause >nul

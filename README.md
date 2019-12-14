@@ -4,7 +4,7 @@
 
 * Testé sous Windows Seven Edition familiale.
 
-* D'abord installer la dernière version du pack **"ffmpeg"** dans le répertoire appelé **"programmes"** (voir ci-dessous). On doit pouvoir accéder à ffmpeg par cette arborescence : **\racine_de_l_outil\Programmes\bin\ffmpeg.exe**.
+* D'abord installer la dernière version du pack **"ffmpeg"** dans le répertoire appelé **"programmes"** (voir ci-dessous). On doit pouvoir accéder à l'exécutable "ffmpeg.exe" par cette arborescence : **\racine_de_l_outil\Programmes\bin\ffmpeg.exe**.
 
 * A la fin du traitement, des informations sont données sur le fichier d'entrée et sur le fichier de sortie.
 

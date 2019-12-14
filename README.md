@@ -21,4 +21,6 @@ Le répertoire de l'outil est organisé de la façon suivante :
 
 _Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._
 
- © Henri 13/12/19
+---
+
+_© Henri 13/12/19_

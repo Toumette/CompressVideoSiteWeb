@@ -1,6 +1,6 @@
 @echo off
 
-TITLE TRAITEMENT DE LA VIDEO POUR LE SITE SPIP DU COLLEGE  © Henri
+TITLE "TRAITEMENT DE LA VIDEO POUR LE SITE SPIP DU COLLEGE © Henri"
 
 echo.
 echo ****************************************************************************

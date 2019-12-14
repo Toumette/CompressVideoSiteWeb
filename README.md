@@ -19,8 +19,7 @@ Le répertoire de l'outil est organisé de la façon suivante :
                         |Répertoire Programmes======>|bin==>|ffmpeg.exe (à installer, utilisé par l'outil)
                         
 
-_Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting._
+_Ce cript, volontairement "sur-commenté", est destiné aux débutants en scripting BAT._
 
 ---
-
 _© Henri 13/12/19_

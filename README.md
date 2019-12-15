@@ -8,7 +8,7 @@
 
 * Une fois l'outil installé et testé, le fichier "MarcheAsuivre" permet au gestionnaire du site de l'établissement (non spécialiste) de réaliser l'opération (fichier utilisant la syntaxe Markdown).
 
-* Testé sous Windows Seven Edition familiale. Site sous CMS SPIP.
+* Testé sous Windows Seven Edition familiale. Site sous CMS SPIP de l'académie de Rennes.
 
 Le répertoire de l'outil doit être organisé de la façon suivante :
 

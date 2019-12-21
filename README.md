@@ -17,7 +17,9 @@ Le répertoire de l'outil doit être organisé de la façon suivante :
                         |-MarcheAsuivre.md (doc)     |-out.flv (fichier généré par l'outil après traitement)
                         |
                         |Répertoire Programmes======>|bin==>|ffmpeg.exe (à installer, utilisé par l'outil)
-                        
+
+* Testé sous Windows Seven Edition familiale premium.
+
 _Ce cript, volontairement "sur-commenté", s'adresse aux débutants en scripting BAT._
 
 ---

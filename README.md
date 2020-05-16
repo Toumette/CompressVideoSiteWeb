@@ -21,5 +21,5 @@ Le répertoire de l'outil doit être organisé de la façon suivante :
 * Testé sous Windows Seven Edition familiale premium.
 
 ---
-_Ce cript, volontairement "sur-commenté", s'adresse aux débutants en scripting BAT._
+_Ce script, volontairement "sur-commenté", s'adresse aux débutants en scripting BAT._
 _© Henri 13/12/19_

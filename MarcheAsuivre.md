@@ -30,4 +30,5 @@
 
 1. Effacer les fichiers «.mp4» et «.flv» du répertoire «TRAITEMENT».
 
+---
 _© Henri 13/12/19 - Plus d'informations : https://henri.nitnoc.me_

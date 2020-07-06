@@ -6,9 +6,7 @@
 
 * A la fin du traitement, des informations sont données sur le fichier d'entrée et sur le fichier de sortie.
 
-* Une fois l'outil installé et testé, le fichier "MarcheAsuivre" permet au gestionnaire du site de l'établissement (non spécialiste) de réaliser l'opération (fichier utilisant la syntaxe Markdown).
-
-* Testé sous Windows Seven Edition familiale. Site sous CMS SPIP de l'académie de Rennes.
+* Une fois l'outil installé et testé, le fichier **"MarcheAsuivre"** permet au gestionnaire du site de l'établissement de réaliser l'opération (fichier utilisant la syntaxe Markdown).
 
 Le répertoire de l'outil doit être organisé de la façon suivante :
 
@@ -18,7 +16,9 @@ Le répertoire de l'outil doit être organisé de la façon suivante :
                         |
                         |Répertoire Programmes======>|bin==>|ffmpeg.exe (à installer, utilisé par l'outil)
 
-* Testé sous Windows Seven Edition familiale premium.
+* Testé sous Windows Seven Edition familiale premium sur PC 64bits.
+
+* Site de collège sous CMS SPIP de l'académie de Rennes.
 
 ---
 _Ce script, volontairement "sur-commenté", s'adresse aux débutants en scripting BAT._

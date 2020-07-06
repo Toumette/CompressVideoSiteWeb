@@ -13,8 +13,7 @@
 
 1. Attendre la fin du traitement (qq. minutes) - il est possible d'utiliser l'ordinateur durant ce temps mais ne pas le mettre en veille avant la fin du traitement.
 
-1. La fin du traitement est annoncée par l'émission de 3 BIPS et l'affichage de :
-   «========== TRAITEMENT TERMINE ==========».
+1. La fin du traitement est annoncée par l'émission de 3 BIPS et l'affichage de : «========== TRAITEMENT TERMINE ==========».
 
 1. Placer le curseur dans la fenêtre noire et appuyer sur une touche quelconque
 => la fenêtre se ferme.

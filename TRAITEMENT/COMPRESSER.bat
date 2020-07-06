@@ -58,7 +58,8 @@ echo.
 
 echo.
 echo ****************************************************************************
-echo *  TRAITEMENT TERMINE - APPUYER SUR N'IMPORTE QUELLE TOUCHE POUR QUITTER   *
+echo *   TRAITEMENT TERMINE - LE FICHIER GENERE S'APPELLE : out.flv             *
+echo *   APPUYER SUR N'IMPORTE QUELLE TOUCHE POUR QUITTER                       *
 echo ****************************************************************************
 
 REM 3 bips de fin de traitement :

@@ -16,7 +16,7 @@ REM ----------------------------------------------------------------------------
 REM OPTIONS DE ffmpeg UTILISEES ICI :
 REM format conteneur : flv    (=extension de sortie) => nécessaire pour site/SPIP...
 REM codec vidéo      : h.264 -c:v libx264
-REM codec audio      : AAC   -c:a libvo_aacenc
+REM codec audio      : AAC   -c:a aac
 REM format video     : -s 640X360
 
 REM CONVERSION DE in.mp4 en out.flv
@@ -24,11 +24,11 @@ REM pour mise sur site WEB/SPIP du Collège de films
 REM ----------------------------------------------------------------------------
 
 REM décommenter pour faire un test rapide sur 30s de la vidéo :
-REM ..\Programmes\bin\ffmpeg -ss 60 -t 30 -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
+REM ..\Programmes\bin\ffmpeg -ss 60 -t 30 -i in.mp4 -c:v libx264 -c:a aac -s 640x360 out.flv
 
 REM si test OK :
 REM décommenter pour traiter entièrement la vidéo :
-..\Programmes\bin\ffmpeg -i in.mp4 -c:v libx264 -c:a libvo_aacenc -s 640x360 out.flv
+..\Programmes\bin\ffmpeg -i in.mp4 -c:v libx264 -c:a aac -s 640x360 out.flv
 
 echo.
 echo ----------------------- INFOS SUR LE FICHIER ENTREE -----------------------

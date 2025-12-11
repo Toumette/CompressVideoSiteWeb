@@ -23,4 +23,4 @@ Le répertoire de l'outil doit être organisé de la façon suivante :
 ---
 _Ce script, volontairement "sur-commenté", s'adresse aux débutants en scripting BAT._
 
-_© Henri 13/12/19 - Plus d'informations : https://henri.nitnoc.me_
+_© Henri 13/12/19 - Plus d'informations : https://hcontin.fr_
